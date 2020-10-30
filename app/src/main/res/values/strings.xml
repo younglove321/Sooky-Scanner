@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ReservationJIhyun</string>
+    <string name="admob_app_id">ca-app-pub-5225641756686868~9256820954</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5225641756686868/8187281866</string>
+
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="nation1">미국</string>
+    <string name="nation2">스위스</string>
+    <string name="nation3">캐나다</string>
+    <string name="nation4">베트남</string>
+    <string name="nation5">프랑스</string>
+    <string name="nation6">스페인</string>
+
+
+    <string name="video1">대한항공</string>
+    <string name="video2">아시아나항공</string>
+    <string name="video3">제주항공</string>
+    <string name="video4">이스타항공</string>
+    <string name="video5">에어캐나다</string>
+    <string name="video6">에어프랑스</string>
+
+</resources>

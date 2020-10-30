@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrival_array">
+        <item>미국</item>
+        <item>스위스</item>
+        <item>캐나다</item>
+        <item>베트남</item>
+        <item>프랑스</item>
+        <item>스페인</item>
+    </string-array>
+
+    <string-array name="departure_array">
+        <item>인천</item>
+    </string-array>
+
+    <string-array name="people_array">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
